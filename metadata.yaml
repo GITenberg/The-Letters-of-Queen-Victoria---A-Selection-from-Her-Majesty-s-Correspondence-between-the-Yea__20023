@@ -28,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1486
     wikipedia: http://en.wikipedia.org/wiki/A._C._Benson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20023#The-Letters-of-Queen-Victoria---A-Selection-from-Her-Majesty-s-Correspondence-between-the-Yea_
 gutenberg_bookshelf: United Kingdom
 gutenberg_issued: '2006-12-05'
 gutenberg_type: Text
